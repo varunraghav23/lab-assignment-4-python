@@ -1,0 +1,48 @@
+# Weather Data Visualizer – Summary Report
+
+## 1. Dataset Description
+- Source: (Kaggle / IMD / other – mention link / name)
+- Location and time period covered
+- Number of rows and columns
+- Important variables: Temperature, Rainfall, Humidity, Date, etc.
+
+## 2. Data Cleaning
+- Converted Date column to datetime
+- Removed rows with missing values in key columns
+- Selected only relevant columns
+- Final dataset size after cleaning
+
+## 3. Statistical Analysis
+- Daily statistics: mean, min, max, std for temperature, rainfall, humidity
+- Monthly averages and totals
+- Yearly trends (if your data covers multiple years)
+- Any interesting numbers (e.g., highest temperature, heaviest daily rainfall)
+
+## 4. Visualizations
+### 4.1 Daily Temperature Trend
+- Refer to `daily_temperature_trend.png`
+- Describe the overall pattern: increasing, decreasing, fluctuations, heat waves, cold days, etc.
+
+### 4.2 Monthly Rainfall Totals
+- Refer to `monthly_rainfall_bar.png`
+- Mention which months are driest and which are rainiest.
+
+### 4.3 Humidity vs Temperature
+- Refer to `humidity_vs_temperature_scatter.png`
+- Do you see any correlation? (e.g., higher humidity when temperature is moderate?)
+
+### 4.4 Combined Plot
+- Refer to `combined_plots.png`
+- Explain how combining helps compare trends.
+
+## 5. Grouping and Aggregation Insights
+- Discuss patterns by month / season
+- Which season has:
+  - highest average temperature?
+  - highest total rainfall?
+  - highest average humidity?
+
+## 6. Conclusion
+- Summarize the main climate insights for the location.
+- Mention how this kind of analysis can help campus sustainability or planning.
+- Possible extensions: more variables, interactive dashboard, comparison of multiple cities, etc.
